@@ -6,6 +6,8 @@ To run this project,
    2. $ ./run.sh
    3. browse to http://localhost:7878/
    
+   For a limited time, it will also be hosted at http://jadn.com:7878/
+   
    
 # This Project has Two Parts
 
