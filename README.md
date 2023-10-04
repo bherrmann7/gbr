@@ -2,7 +2,7 @@
 
 To run this project,
 
-   1. place the GIANT BOMB API KEY into ~/.giantbomb-key
+   1. place the GIANT BOMB API KEY into ~/.giant-bomb-key
    2. $ ./run.sh
    3. browse to http://localhost:7878/
    
