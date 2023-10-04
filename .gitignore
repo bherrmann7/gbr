@@ -1,0 +1,9 @@
+.shadow-cljs
+out
+node_modules
+.clj-kondo
+.lsp
+.idea
+public/js
+.cpcache
+.nrepl-port
